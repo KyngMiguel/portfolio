@@ -150,6 +150,12 @@
     align-items: flex-start;
     justify-content: flex-start
 }
+@media screen and (max-width:600px){
+    .aboutme{
+        font-size:90px;
+        line-height: 220%;
+    }
+}
 .btn1{
     border-radius: 20px;
     text-align: center;
@@ -243,7 +249,7 @@ color: white;
         justify-content: center;
     }
     .info{
-        font-size: 20px;
+        font-size: 90px;
         line-height: 60px;
     }
 }
