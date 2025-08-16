@@ -152,7 +152,7 @@
 }
 @media screen and (max-width:600px){
     .aboutme{
-        font-size:90px;
+        font-size:200px;
         line-height: 220%;
     }
 }
@@ -249,7 +249,7 @@ color: white;
         justify-content: center;
     }
     .info{
-        font-size: 90px;
+        font-size: 100px;
         line-height: 60px;
     }
 }
